@@ -52,7 +52,7 @@ a {
 }
 
 .big-title {
-    font-size: 60px;
+    font-size: 65px;
     color: white;
     margin-top: 110PX;
 }
@@ -147,8 +147,8 @@ a {
     padding: 10px;
     /* border: none; */
     border-radius: 4px;
-    width: 80%; 
-    max-width: 300px
+    width: 100%; 
+    max-width: 400px
 }
 .right form input {
     background-color: transparent;
@@ -160,8 +160,8 @@ a {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    width: 80%; 
-    max-width: 300px
+    width: 100%; 
+    max-width: 400px
 }
 
 
@@ -187,12 +187,12 @@ a {
     }
 
     .big-title {
-        font-size: 2rem;
+        font-size: 3rem;
         margin-top: 20px;
     }
 
     .small-title {
-        font-size: 1.25rem;
+        font-size: 2rem;
     }
 
     #about-me, #section-header, .container {
@@ -211,7 +211,7 @@ a {
     .container .left h1 {
         margin: 0;
         text-align: center;
-        font-size: 1.5rem;
+        font-size: 3rem;
     }
 
     .container .right {
